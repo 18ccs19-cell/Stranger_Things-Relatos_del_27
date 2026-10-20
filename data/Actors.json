@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Gryffindor H","characterIndex":0,"characterName":"Gryffindor H","classId":1,"equips":[1],"faceIndex":0,"faceName":"Gryffindor H","traits":[],"initialLevel":1,"maxLevel":30,"name":"","nickname":"","note":"","profile":"Un valiente y honorable estudiante, capaz de romper las reglas si\nes necesario para superar los obstáculos."},
+{"id":2,"battlerName":"Gryffindor M","characterIndex":0,"characterName":"Gryffindor M","classId":1,"equips":[1],"faceIndex":0,"faceName":"Gryffindor M","traits":[],"initialLevel":1,"maxLevel":30,"name":"","nickname":"","note":"","profile":"Un valiente y honorable estudiante, capaz de romper las reglas si\nes necesario para superar los obstáculos."},
+{"id":3,"battlerName":"Gryffindor H","characterIndex":0,"characterName":"Vehicle","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Gryffindor H","traits":[],"initialLevel":1,"maxLevel":30,"name":"","nickname":"","note":"","profile":"Un valiente y honorable estudiante, capaz de romper las reglas si\nes necesario para superar los obstáculos."},
+{"id":4,"battlerName":"Gryffindor M","characterIndex":1,"characterName":"Vehicle","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Gryffindor M","traits":[],"initialLevel":1,"maxLevel":30,"name":"","nickname":"","note":"","profile":"Un valiente y honorable estudiante, capaz de romper las reglas si\nes necesario para superar los obstáculos."},
+{"id":5,"battlerName":"Pepe M","characterIndex":0,"characterName":"Gryffindor-Pepe M","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":" MAria José, Marisa, Nuria,Sara alumna, PepeM,, Porcel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pepe M.","nickname":"","note":"","profile":""}
+]
